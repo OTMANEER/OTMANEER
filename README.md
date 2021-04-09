@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OTMANEER
-- 👀 I’m interested in JAVA ALGORITHMS Software engineering AND Javascript
-- 🌱 I’m currently learning JAVA and software engineering
+- 👀 I Love spending time learning and solving problems using Java and Javascript
+- 🌱 I’m currently a software student engineer
 - 💞️ I’m looking to collaborate on apprenticeship
-- 📫 How to reach me ...
+- 📫 You can visite my Linkedin https://www.linkedin.com/in/otmane-erragragui/
 
 <!---
 OTMANEER/OTMANEER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
