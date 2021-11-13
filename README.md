@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OTMANEER
-- 👀 I Love spending time learning and solving problems using Java and Javascript
+- 👀 JAVA 
 - 🌱 I’m currently a software student engineer
-- 💞️ I’m looking to collaborate on apprenticeship
+- 💞️ I love CP and Algorithms
 - 📫 You can visite my Linkedin https://www.linkedin.com/in/otmane-erragragui/
 
 <!---
