@@ -1,7 +1,5 @@
 - 👋 Hi, I’m OTMANE
 - 👀 A JAVA Enthusiast 
-- 🌱 I’m currently a software student engineer
-- 💞️ I love CP and Algorithms
 - 📫 You can visite my Linkedin https://www.linkedin.com/in/otmane-erragragui/
 - I wear many hats.
 <!---
