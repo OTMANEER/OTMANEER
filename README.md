@@ -1,5 +1,6 @@
 - 👋 Hi, I’m OTMANE
 - 👀 JAVA Enthusiast 
+- 👀 I solve problems ALWAYS 
 - 📫 Visit my Linkedin https://www.linkedin.com/in/otmane-erragragui/
  
 <!---
